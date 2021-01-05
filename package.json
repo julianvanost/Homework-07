@@ -17,7 +17,7 @@
   },
   "homepage": "https://github.com/JFrick1992/Portfolio-Generator#readme",
   "dependencies": {
-    "axios": "^0.19.2",
+    "axios": "^0.21.1",
     "chalk-pipe": "^3.0.0",
     "fs": "0.0.1-security",
     "inquirer": "^7.0.4"
